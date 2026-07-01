@@ -5,7 +5,7 @@
       "id": "player",
       "name": "Inline Player",
       "version": "1.0.2",
-      "description": "In-app audiobook player for Listenarr — chapters, bookmarks, resume, and a Listen library page.",
+      "description": "In-app audiobook player for Listenarr \u00e2\u20ac\u201d chapters, bookmarks, resume, and a Listen library page.",
       "author": "shuff57",
       "package": "https://github.com/shuff57/listenarr-player/releases/download/v1.0.2/player.zip"
     },
@@ -44,16 +44,16 @@
     {
       "id": "discovery",
       "name": "Discover",
-      "version": "1.0.0",
-      "description": "Suggests audiobooks you might like — Audible search seeded by the authors you already own, filtered against your library, with a one-click hand-off into Add New. (v1: affinity/'more-by-author'; an 'also-enjoyed' source is a planned v1.1.)",
+      "version": "1.0.1",
+      "description": "Suggests audiobooks you might like \u2014 Audible search seeded by the authors AND genres you already own, filtered against your library, with a one-click hand-off into Add New.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-discovery/releases/download/v1.0.0/discovery.zip"
+      "package": "https://github.com/shuff57/listenarr-discovery/releases/download/v1.0.1/discovery.zip"
     },
     {
       "id": "health",
       "name": "Health",
       "version": "1.0.0",
-      "description": "File-integrity scan: walks every audiobook file on disk and flags missing / zero-byte / unreadable files — beyond what Wanted (metadata) and System→Storage (disk space) show. Backend dll; admin-gated.",
+      "description": "File-integrity scan: walks every audiobook file on disk and flags missing / zero-byte / unreadable files \u00e2\u20ac\u201d beyond what Wanted (metadata) and System\u00e2\u2020\u2019Storage (disk space) show. Backend dll; admin-gated.",
       "author": "shuff57",
       "package": "https://github.com/shuff57/listenarr-health/releases/download/v1.0.0/health.zip"
     }
