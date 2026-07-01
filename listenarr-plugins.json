@@ -1,0 +1,61 @@
+{
+  "name": "shuff57 Listenarr plugins",
+  "plugins": [
+    {
+      "id": "player",
+      "name": "Inline Player",
+      "version": "1.0.2",
+      "description": "In-app audiobook player for Listenarr — chapters, bookmarks, resume, and a Listen library page.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-player/releases/download/v1.0.2/player.zip"
+    },
+    {
+      "id": "stats",
+      "name": "Library Stats",
+      "version": "1.0.0",
+      "description": "A library + listening dashboard: totals, top authors/narrators, and (when the player plugin is installed) in-progress/finished counts.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-stats/releases/download/v1.0.0/stats.zip"
+    },
+    {
+      "id": "theme",
+      "name": "Theme",
+      "version": "1.0.0",
+      "description": "Inject custom CSS into Listenarr at runtime. Includes accent presets, a full CSS editor, and Apply/Save/Reset controls. Saved themes persist across reloads.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-theme/releases/download/v1.0.0/theme.zip"
+    },
+    {
+      "id": "export",
+      "name": "Library Export",
+      "version": "1.0.0",
+      "description": "Export your Listenarr audiobook library to JSON or CSV with a single click.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-export/releases/download/v1.0.0/export.zip"
+    },
+    {
+      "id": "backup",
+      "name": "Backup",
+      "version": "1.0.0",
+      "description": "Download your Listenarr config directory as a zip. Admin-gated.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-backup/releases/download/v1.0.0/backup.zip"
+    },
+    {
+      "id": "discovery",
+      "name": "Discover",
+      "version": "1.0.0",
+      "description": "Suggests audiobooks you might like — Audible search seeded by the authors you already own, filtered against your library, with a one-click hand-off into Add New. (v1: affinity/'more-by-author'; an 'also-enjoyed' source is a planned v1.1.)",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-discovery/releases/download/v1.0.0/discovery.zip"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "version": "1.0.0",
+      "description": "File-integrity scan: walks every audiobook file on disk and flags missing / zero-byte / unreadable files — beyond what Wanted (metadata) and System→Storage (disk space) show. Backend dll; admin-gated.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-health/releases/download/v1.0.0/health.zip"
+    }
+  ]
+}
