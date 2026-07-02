@@ -7,7 +7,7 @@
       "version": "1.1.0",
       "description": "Multi-user accounts + per-user My Library shelves, admin user management, and self-service password change. No core fork.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-profiles/releases/download/v1.1.0/profiles.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/profiles-v1.1.0/profiles.zip"
     },
     {
       "id": "player",
@@ -15,7 +15,7 @@
       "version": "1.1.0",
       "description": "In-app audiobook player for Listenarr \u00e2\u20ac\u201d chapters, bookmarks, resume, and a Listen library page.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-player/releases/download/v1.1.0/player.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/player-v1.1.0/player.zip"
     },
     {
       "id": "stats",
@@ -23,7 +23,7 @@
       "version": "1.0.0",
       "description": "A library + listening dashboard: totals, top authors/narrators, and (when the player plugin is installed) in-progress/finished counts.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-stats/releases/download/v1.0.0/stats.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/stats-v1.0.0/stats.zip"
     },
     {
       "id": "theme",
@@ -31,7 +31,7 @@
       "version": "1.0.0",
       "description": "Inject custom CSS into Listenarr at runtime. Includes accent presets, a full CSS editor, and Apply/Save/Reset controls. Saved themes persist across reloads.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-theme/releases/download/v1.0.0/theme.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/theme-v1.0.0/theme.zip"
     },
     {
       "id": "export",
@@ -39,7 +39,7 @@
       "version": "1.0.0",
       "description": "Export your Listenarr audiobook library to JSON or CSV with a single click.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-export/releases/download/v1.0.0/export.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/export-v1.0.0/export.zip"
     },
     {
       "id": "backup",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "description": "Download your Listenarr config directory as a zip. Admin-gated.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-backup/releases/download/v1.0.0/backup.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/backup-v1.0.0/backup.zip"
     },
     {
       "id": "discovery",
@@ -55,7 +55,7 @@
       "version": "1.0.2",
       "description": "Suggests audiobooks you might like \u2014 Audible search seeded by the authors AND genres you already own, filtered against your library, with a one-click hand-off into Add New.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-discovery/releases/download/v1.0.2/discovery.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/discovery-v1.0.2/discovery.zip"
     },
     {
       "id": "health",
@@ -63,7 +63,7 @@
       "version": "1.0.0",
       "description": "File-integrity scan: walks every audiobook file on disk and flags missing / zero-byte / unreadable files \u00e2\u20ac\u201d beyond what Wanted (metadata) and System\u00e2\u2020\u2019Storage (disk space) show. Backend dll; admin-gated.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-health/releases/download/v1.0.0/health.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/health-v1.0.0/health.zip"
     }
   ]
 }
