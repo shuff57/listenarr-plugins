@@ -2,12 +2,20 @@
   "name": "shuff57 Listenarr plugins",
   "plugins": [
     {
+      "id": "profiles",
+      "name": "Profiles",
+      "version": "0.1.0",
+      "description": "Multi-user accounts + per-user My Library shelves on the shared pool, with admin user management. No core fork.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-profiles/releases/download/v0.1.0/profiles.zip"
+    },
+    {
       "id": "player",
       "name": "Inline Player",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "description": "In-app audiobook player for Listenarr \u00e2\u20ac\u201d chapters, bookmarks, resume, and a Listen library page.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-player/releases/download/v1.0.2/player.zip"
+      "package": "https://github.com/shuff57/listenarr-player/releases/download/v1.1.0/player.zip"
     },
     {
       "id": "stats",
@@ -44,10 +52,10 @@
     {
       "id": "discovery",
       "name": "Discover",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Suggests audiobooks you might like \u2014 Audible search seeded by the authors AND genres you already own, filtered against your library, with a one-click hand-off into Add New.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-discovery/releases/download/v1.0.1/discovery.zip"
+      "package": "https://github.com/shuff57/listenarr-discovery/releases/download/v1.0.2/discovery.zip"
     },
     {
       "id": "health",
