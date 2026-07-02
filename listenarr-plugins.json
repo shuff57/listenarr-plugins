@@ -4,10 +4,10 @@
     {
       "id": "profiles",
       "name": "Profiles",
-      "version": "0.2.0",
+      "version": "1.0.2",
       "description": "Multi-user accounts + per-user My Library shelves, admin user management, and self-service password change. No core fork.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-profiles/releases/download/v0.2.0/profiles.zip"
+      "package": "https://github.com/shuff57/listenarr-profiles/releases/download/v1.0.2/profiles.zip"
     },
     {
       "id": "player",
