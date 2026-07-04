@@ -4,10 +4,10 @@
     {
       "id": "profiles",
       "name": "Profiles",
-      "version": "1.1.0",
-      "description": "Multi-user accounts + per-user My Library shelves, admin user management, and self-service password change. No core fork.",
+      "version": "1.2.0",
+      "description": "Multi-user accounts + per-user My Library shelves, admin user management, self-service password change. Drag-to-reorder My Library when the Reorder plugin is installed. No core fork.",
       "author": "shuff57",
-      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/profiles-v1.1.0/profiles.zip"
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/profiles-v1.2.0/profiles.zip"
     },
     {
       "id": "player",
