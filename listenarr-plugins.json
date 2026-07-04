@@ -13,7 +13,7 @@
       "id": "player",
       "name": "Inline Player",
       "version": "1.1.0",
-      "description": "In-app audiobook player for Listenarr \u00e2\u20ac\u201d chapters, bookmarks, resume, and a Listen library page.",
+      "description": "In-app audiobook player for Listenarr â€” chapters, bookmarks, resume, and a Listen library page.",
       "author": "shuff57",
       "package": "https://github.com/shuff57/listenarr-plugins/releases/download/player-v1.1.0/player.zip"
     },
@@ -53,7 +53,7 @@
       "id": "discovery",
       "name": "Discover",
       "version": "1.0.2",
-      "description": "Suggests audiobooks you might like \u2014 Audible search seeded by the authors AND genres you already own, filtered against your library, with a one-click hand-off into Add New.",
+      "description": "Suggests audiobooks you might like — Audible search seeded by the authors AND genres you already own, filtered against your library, with a one-click hand-off into Add New.",
       "author": "shuff57",
       "package": "https://github.com/shuff57/listenarr-plugins/releases/download/discovery-v1.0.2/discovery.zip"
     },
@@ -61,9 +61,17 @@
       "id": "health",
       "name": "Health",
       "version": "1.0.0",
-      "description": "File-integrity scan: walks every audiobook file on disk and flags missing / zero-byte / unreadable files \u00e2\u20ac\u201d beyond what Wanted (metadata) and System\u00e2\u2020\u2019Storage (disk space) show. Backend dll; admin-gated.",
+      "description": "File-integrity scan: walks every audiobook file on disk and flags missing / zero-byte / unreadable files â€” beyond what Wanted (metadata) and Systemâ†’Storage (disk space) show. Backend dll; admin-gated.",
       "author": "shuff57",
       "package": "https://github.com/shuff57/listenarr-plugins/releases/download/health-v1.0.0/health.zip"
+    },
+    {
+      "id": "reorder",
+      "name": "Reorder",
+      "version": "0.2.0",
+      "description": "Drag-and-drop manual ordering: adds a 'Manual Order' sort to the Books grid, plus per-user drag on My Library when the Profiles plugin is installed. Backend dll + own SQLite; admin-gated for the shared library order.",
+      "author": "shuff57",
+      "package": "https://github.com/shuff57/listenarr-plugins/releases/download/reorder-v0.2.0/reorder.zip"
     }
   ]
 }
